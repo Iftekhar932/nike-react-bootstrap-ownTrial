@@ -18,8 +18,8 @@ header{
 ul.navbar-nav{
   font-weight: 900;
 }
-ul li{
-  border-bottom:1px solid;
+ul.navbar-nav li{
+  border-bottom: 1px solid;
 }
 
 
