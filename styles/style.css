@@ -1,0 +1,52 @@
+/* GOOGLE FONTS LINK */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+/* ----------------- */
+/* COMMON CSS */
+/* ----------------- */
+body{
+  font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+header{
+  background-color: #fff9f4;
+}
+
+/* ------------------------- */
+/* CSS FOR NAV */
+/* ------------------------- */
+ul.navbar-nav{
+  font-weight: 900;
+}
+ul li{
+  border-bottom:1px solid;
+}
+
+
+/* ------------------------ */
+/* PRODUCT INTRO SECTION CSS */
+/* ------------------------ */
+h1 span.custom-span{
+  color:#FA804C;
+  font-weight: 900;
+}
+h1 span.custom-spanTwo{
+  color: #333;
+  font-weight: 900;
+}
+button.custom-color-btn{
+  background-color: #3c4dea;
+  color: #ffffff;
+}
+
+
+/* ------------------------ */
+ /* CASUAL SHOES SECTION CSS */
+/* ------------------------ */
+
+div.img-box-background{
+  background-color: #f1f1f1;
+}
+h1.text-warning-custom{
+  color:#fa804c
+}
